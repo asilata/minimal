@@ -2,16 +2,17 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #efefef;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  font: 14px/1.5 "Noto Sans",  "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#454545;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  //font-weight: lighter;
 }
 
 p, ul, ol, table, pre, dl {
@@ -41,7 +42,8 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  background: #e6e6e6;
+  text-decoration: none;
 }
 
 a small {
@@ -123,6 +125,11 @@ nav {
         border: none;
         display: flex;
         flex-direction: column;
+
+        li{
+            padding: 0.2em;
+        }
+        
     }
 }
 
@@ -206,9 +213,12 @@ footer {
       flex-direction: column;
   }
 
-  nav ul {
-      flex-direction: row;
-      justify-content: space-around;
+  
+  nav{
+      ul {
+          flex-direction: row;
+          justify-content: space-between;
+      }
   }
 
   /* header ul, header p.view { */
