@@ -21,7 +21,7 @@ The conference dates are **dates**.
 
 ## Organizers and contact
 
-The conference is organized by Asilata Bapat (UGA), Tamas Hausel (IST Austria), Iordan Ganev (IST Austria), Maitreyee Kulkarni (LSU), and Jacob Matherne (UMass Amherst).
+The conference is organized by Asilata Bapat (UGA), Iordan Ganev (IST Austria), Tamas Hausel (IST Austria), Maitreyee Kulkarni (LSU), and Jacob Matherne (UMass Amherst).
 
 To get in touch with the organizers, please write to _our-email-address_.
 
