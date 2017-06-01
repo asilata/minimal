@@ -6,11 +6,15 @@
 
 $headers: #2c3e50;
 $background: #f8f8f8;
+$border: darken($background, 10%);
 $text: #34495e;
 $link: #3498db;
 $accent: darken($link, 20%);
 $link-hover: $accent;
 $link-background: darken($background, 2%);
+$c1-background: #8dffc6;
+$c2-background: #ffff75;
+$admin-background: #bdc3c7;
 
 body {
     background-color: $background;
@@ -34,10 +38,9 @@ h1, h2, h3 {
 
 h1 {
     font-size:28px;
-    color: $accent;
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     color: $headers;
 }
 
@@ -69,7 +72,7 @@ a:hover, a:focus {
 }
 
 blockquote {
-    border-left:1px solid #e5e5e5;
+    border-left:1px solid $border;
     margin:0;
     padding:0 0 0 20px;
     font-style:italic;
@@ -91,13 +94,27 @@ blockquote {
 
 table {
     width:100%;
+    font-size: 85%;
     border-collapse:collapse;
+
+}
+
+tr {
+    .c1 {
+        background-color: $c1-background;
+    }
+    .c2 {
+        background-color: $c2-background;
+    }
+    .admin {
+        background-color: $admin-background;
+    }
 }
 
 th, td {
     text-align:left;
-    padding:5px 10px;
-    border-bottom:1px solid #e5e5e5;
+    padding:5px 8px;
+    border-bottom:1px solid $border;
 }
 
 dt {
@@ -120,9 +137,14 @@ header {
     -webkit-font-smoothing:subpixel-antialiased;
     display: flex;
     flex-direction: column;
+    h1 {
+        color: $accent;
+    }
 }
 
 nav {
+    font-size: 80%;
+    letter-spacing:0.1em;
     ul {
         padding: 0em;
         margin: 0em;
@@ -136,6 +158,10 @@ nav {
             padding: 0.2em;
         }
         
+    }
+    .active {
+        //border-bottom: solid 3px $link;
+        font-weight: 700;
     }
 }
 
@@ -191,7 +217,7 @@ footer {
 
 
     section {
-        border:1px solid #e5e5e5;
+        border:1px solid $border;
         border-width:1px 0;
         padding:20px 0;
         margin:0 0 20px;
@@ -223,7 +249,9 @@ footer {
     nav{
         ul {
             flex-direction: row;
-            justify-content: space-between;
+            justify-content: space-around;
+            flex: 1 1 auto;
+            flex-wrap: wrap;
         }
     }
 
