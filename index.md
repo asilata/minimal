@@ -17,7 +17,7 @@ The summer school will consist of four mini-courses on topics related to geometr
 
 The registration deadline is **date**.
 [Here]() is the link to the registration page.
-The conference dates are **9 July to 16 July 2018**.
+The conference dates are **9 July to 13 July 2018**.
 
 ## Organizers and contact
 
