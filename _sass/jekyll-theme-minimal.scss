@@ -27,6 +27,7 @@ body {
     font-weight:400;
 }
 
+
 h1, h2, h3, h4, h5, h6 {
     margin:0 0 20px;
 }
@@ -72,6 +73,61 @@ a:hover, a:focus {
 .wrapper {
     width:860px;
     margin:0 auto;
+}
+
+header {
+    width:270px;
+    float:left;
+    //position:fixed;
+    height: 100%;
+    overflow:auto;
+    -webkit-font-smoothing:subpixel-antialiased;
+    display: flex;
+    flex-direction: column;
+    h1 {
+        color: $accent;
+    }
+}
+
+section {
+    width:500px;
+    float:right;
+    padding-bottom:50px;
+    height: 100%;
+    overflow: auto;
+}
+
+footer {
+    width:270px;
+    float:left;
+    position:fixed;
+    bottom:50px;
+    -webkit-font-smoothing:subpixel-antialiased;
+}
+
+nav {
+    font-size: 80%;
+    font-weight: 700;
+    letter-spacing:0.12em;
+    ul {
+        padding: 0em;
+        margin: 0em;
+        list-style: none;
+        background: none;
+        border: none;
+        display: flex;
+        flex-direction: column;
+
+        li{
+            padding: 0.2em;
+        }
+        
+    }
+    .active {
+        //border-bottom: solid 3px $link;
+        //font-weight: 700;
+        color: $link-hover;
+    }
 }
 
 blockquote {
@@ -133,53 +189,9 @@ img {
     max-width:100%;
 }
 
-header {
-    width:270px;
-    float:left;
-    position:fixed;
-    -webkit-font-smoothing:subpixel-antialiased;
-    display: flex;
-    flex-direction: column;
-    h1 {
-        color: $accent;
-    }
-
-}
-
-nav {
-    font-size: 80%;
-    font-weight: 700;
-    letter-spacing:0.12em;
-    ul {
-        padding: 0em;
-        margin: 0em;
-        list-style: none;
-        background: none;
-        border: none;
-        display: flex;
-        flex-direction: column;
-
-        li{
-            padding: 0.2em;
-        }
-        
-    }
-    .active {
-        //border-bottom: solid 3px $link;
-        //font-weight: 700;
-        color: $link-hover;
-    }
-}
-
 strong {
     color: $headers;
     font-weight:700;
-}
-
-section {
-    width:500px;
-    float:right;
-    padding-bottom:50px;
 }
 
 small {
@@ -193,15 +205,14 @@ hr {
     margin:0 0 20px;
 }
 
-footer {
-    width:270px;
-    float:left;
-    position:fixed;
-    bottom:50px;
-    -webkit-font-smoothing:subpixel-antialiased;
+#ist-photo {
+    width: 95%;
+    margin: auto;
+    opacity: 0.8;
+    border: solid 2px $accent;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 960px), print, screen and (max-height: 500px) {
 
     div.wrapper {
         width:auto;
