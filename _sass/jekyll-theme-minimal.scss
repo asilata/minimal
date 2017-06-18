@@ -159,15 +159,15 @@ table {
 }
 
 tr {
-    .c1 {
-        background-color: $c1-background;
-    }
-    .c2 {
-        background-color: $c2-background;
-    }
-    .admin {
-        background-color: $admin-background;
-    }
+    /* .c1 { */
+    /*     background-color: $c1-background; */
+    /* } */
+    /* .c2 { */
+    /*     background-color: $c2-background; */
+    /* } */
+    /* .admin { */
+    /*     background-color: $admin-background; */
+    /* } */
 }
 
 th, td {
@@ -277,6 +277,10 @@ hr {
             flex: 1 1 auto;
             flex-wrap: wrap;
         }
+    }
+
+    #ist-photo {
+        opacity: 1;
     }
 
     /* header ul, header p.view { */
