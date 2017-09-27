@@ -12,39 +12,46 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-        <header>
+      <div class="wrapper">
+          <div class="maincontent">
+              <header>
+                  
+                  <div>
+                      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                      <p>{{ site.description | default: site.github.project_tagline }}</p>
+                  </div>
 
-            <div>
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-                <p>{{ site.description | default: site.github.project_tagline }}</p>
-            </div>
+                  <p>
+                      <img src="{{ '/assets/images/IST.jpg' | relative_url }}" id="ist-photo"/>
+                  </p>
 
-            
-            <p>
-                <img src="{{ '/assets/images/IST.jpg' | relative_url }}" id="ist-photo"/>
-            </p>
+                  {% include navigation.html %}
+                  
+                  
+                  
+              </header>
+              
+              <section>
+                  
+                  {{ content }}
+                  
+              </section>
+          </div>
 
-            {% include navigation.html %}
-
-        </header>
-        
-      <section>
-
-      {{ content }}
-
-      </section>
-
-      <footer>
-          <!-- {% if site.github.is_project_page %}
-               <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-               {% endif %}
-               <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
-          <p><small>
-              Theme adapted from Minimal by <a href="https://github.com/orderedlist">orderedlist</a>.
-          </small></p>
-      </footer>
-
+          <div class="footer">
+              <footer>
+                  <!-- {% if site.github.is_project_page %}
+                       <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+                       {% endif %}
+                       <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
+                  <p>
+                      <img src="{{ 'assets/images/lower_austria_logo.jpg' | relative_url }}" id="lower-austria"/>
+                  </p>
+                  <p><small>
+                      Theme adapted from Minimal by <a href="https://github.com/orderedlist">orderedlist</a>.
+                  </small></p>
+              </footer>
+          </div>
 
 
     </div>
