@@ -118,7 +118,7 @@ section {
 }
 
 footer {
-    margin-top: 2em;
+    margin-top: 4em;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
@@ -193,13 +193,15 @@ hr {
     border: solid 2px $accent;
 }
 
-#lower-austria {
+#lower-austria, #ist-austria, #erc {
     width: auto;
-    max-width: 20em;
+    max-height: 4em;
     margin: auto;
-    opacity: 0.9;
 }
 
+#lower-austria {
+    opacity: 0.8;
+}
 
 @media print, screen and (min-width: 480px) {
     body {
