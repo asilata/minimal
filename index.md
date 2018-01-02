@@ -32,7 +32,7 @@ The conference dates are **9 July to 13 July 2018**.
 
 ## Organizers and contact
 
-The conference is organized by Asilata Bapat (University of Georgia), Iordan Ganev (IST Austria), Tamas Hausel (IST Austria), Maitreyee Kulkarni (Louisiana State University), and Jacob Matherne (University of Massachusetts Amherst).
+The conference is organized by Asilata Bapat (Australian National University), Iordan Ganev (IST Austria), Tamas Hausel (IST Austria), Maitreyee Kulkarni (Louisiana State University), and Jacob Matherne (University of Massachusetts Amherst).
 
 To get in touch with the organizers, please write to **ssgrt2018@gmail.com**.
 
