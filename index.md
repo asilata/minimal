@@ -14,6 +14,14 @@ It will be held at the Institute of Science and Technology Austria.
 * Nicholas Proudfoot (University of Oregon)
 * Catharina Stroppel (University of Bonn)
 
+## Research talk speakers
+
+* [Martina Balagovic](http://www.ncl.ac.uk/maths-physics/staff/profile/martinabalagovic.html) (Newcastle University)
+* [Tina Kanstrup](http://www.math.uni-bonn.de/people/kanstrup/) (Hausdorff Center for Mathematics)
+* [Neil Saunders](https://sites.google.com/site/neiljsaunders/) (University of Greenwich)
+* Alexander Shapiro (University of Toronto)
+* [Tom Sutherland](http://www-dimat.unipv.it/sutherland/index.html) (University of Pavia)
+
 ## Registration and deadlines
 
 <!-- The registration deadline is **date**. -->
