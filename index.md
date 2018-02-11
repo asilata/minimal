@@ -26,7 +26,7 @@ It will be held at the Institute of Science and Technology Austria.
 
 <!-- The registration deadline is **date**. -->
 [Here](registration) is the link to the registration page.
-Details about registration will be available shortly.
+The registration deadline is **31 March 2018**.
 The conference dates are **9 July to 13 July 2018**.
 
 
