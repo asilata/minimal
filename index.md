@@ -20,11 +20,10 @@ It will be held at the Institute of Science and Technology Austria.
 * [Tina Kanstrup](http://www.math.uni-bonn.de/people/kanstrup/) (Hausdorff Center for Mathematics)
 * [Neil Saunders](https://sites.google.com/site/neiljsaunders/) (University of Greenwich)
 * Alexander Shapiro (University of Toronto)
-* [Tom Sutherland](http://www-dimat.unipv.it/sutherland/index.html) (University of Pavia)
+* [Tom Sutherland](http://www.staff.uni-mainz.de/tsutherl/) (University of Mainz)
 
 ## Registration and deadlines
 
-<!-- The registration deadline is **date**. -->
 [Here](registration) is the link to the registration page.
 The registration deadline is **31 March 2018**.
 The conference dates are **9 July to 13 July 2018**.
@@ -32,7 +31,7 @@ The conference dates are **9 July to 13 July 2018**.
 
 ## Organizers and contact
 
-The conference is organized by Asilata Bapat (Australian National University), Iordan Ganev (IST Austria), Tamas Hausel (IST Austria), Maitreyee Kulkarni (Louisiana State University), and Jacob Matherne (University of Massachusetts Amherst).
+The conference is organized by Asilata Bapat, Iordan Ganev, Tamas Hausel, Maitreyee Kulkarni, and Jacob Matherne.
 
 To get in touch with the organizers, please write to **ssgrt2018@gmail.com**.
 
