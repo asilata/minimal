@@ -10,6 +10,7 @@ The registration deadline is **31 March 2018**.
 
 As part of the registration, graduate students will be asked to write a brief supporting statement detailing their background, interests, and how they hope to benefit from the summer school.
 All interested participants will be asked to upload a CV. Please have these documents ready before starting to fill out the registration form.
+Accommodation expenses will be covered for all participants, but we will not be able to offer travel funding for non-speakers.
 
 To register, please fill out the form below (takes a few seconds to load). 
 Alternatively, you can access the form [here](https://docs.google.com/forms/d/e/1FAIpQLSdOalF3GWJZr7Cy7l0QBpabVgEKpsF3zUGmFtvHXrlpLeTJ6g/viewform?usp=sf_link).
