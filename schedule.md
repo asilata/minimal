@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Schedule
-navigation_weight: 4
+title: Program
+navigation_weight: 2
 ---
 
 # {{ page.title }}
@@ -108,3 +108,26 @@ navigation_weight: 4
     </tr>
   </tbody>
 </table>
+
+## Mini-courses 
+{% assign speakers = site.data.mini-course-abstracts | sort: 'lastname' %}
+{% for speaker in speakers %}
+<div class="mini-course-abstract">
+### {{ speaker.firstname }} {{speaker.lastname}}{% if speaker.title %}: {{speaker.title}}{% endif %}
+{% if speaker.abstract %}{{ speaker.abstract }}<br/>
+{% for lecture in speaker.lectures %}
+1. **{{ lecture.title}}:** {{ lecture.abstract }}
+{% endfor %}
+{% endif %}
+</div>
+{% endfor %}
+
+## Research talks
+{% assign speakers = site.data.research-talk-abstracts | sort: 'lastname' %}
+{% for speaker in speakers %}
+<div class="research-talk-abstract">
+**{{ speaker.firstname }} {{speaker.lastname}}{% if speaker.title %}: {{speaker.title}}{% endif %}**
+{% if speaker.abstract %}<br/>{{ speaker.abstract }}{% endif %}
+</div>
+{% endfor %}
+

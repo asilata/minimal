@@ -3,3 +3,6 @@ description: 9 July&mdash;13 July 2018, Institute of Science and Technology Aust
 show_downloads: false
 google_analytics:
 theme: 
+
+kramdown:
+  parse_block_html: true

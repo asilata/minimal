@@ -1,0 +1,28 @@
+- firstname: Iain
+  lastname: Gordon
+  affiliation: University of Edinburgh
+  website: http://www.maths.ed.ac.uk/~igordon/
+
+- firstname: Andrei
+  lastname: Negut
+  affiliation: Massachusetts Institute of Technology
+  website: https://www.andreinegut.com/
+  
+- firstname: Nicholas
+  lastname: Proudfoot
+  affiliation: University of Oregon
+  website: http://pages.uoregon.edu/njp/
+  title: The Hikita Conjecture
+  abstract: "Conical symplectic resolutions often come in dual pairs, and the Hikita conjecture relates the cohomology of one resolution to the coordinate ring of the other. These talks will be an overview of the conjecture and its various generalizations. Along the way, I will touch on a number of fundamental topics in the theory of conical symplectic resolutions, including quantizations and quantum cohomology."
+  lectures:
+    - title: "Original Hikita"
+      abstract: "I will define conical symplectic resolutions and describe the conjecture, with an emphasis on the examples in Hikita’s paper:  hypertoric varieties, Hilbert schemes, and the Springer resolution."
+    - title: "Equivariant Hikita"
+      abstract: "I will state Nakajima’s extension of Hikita’s conjecture, which relates the equivariant cohomology of one resolution (for the conical action) to the quantized coordinate ring of the other. I will also describe the Higgs/Coulomb constructions which are expected to be the source of more examples."
+    - title: "Quantum Hikita"
+      abstract: "I will describe the most recent version of Hikita’s conjecture, due to Kamnitzer, McBreen, and myself, which relates the quantum cohomology of one resolution to the Hochschild homology of the quantized coordinate ring on the other side."
+
+- firstname: Catharina
+  lastname: Stroppel
+  affiliation: University of Bonn
+  website: http://www.math.uni-bonn.de/ag/stroppel/

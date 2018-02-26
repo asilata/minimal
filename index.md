@@ -52,6 +52,5 @@ The conference dates are **9 July to 13 July 2018**.
 ## Organizers and contact
 
 The conference is organized by Asilata Bapat, Iordan Ganev, Tamas Hausel, Maitreyee Kulkarni, and Jacob Matherne.
-
 To get in touch with the organizers, please write to **ssgrt2018@gmail.com**.
 
