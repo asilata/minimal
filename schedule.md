@@ -113,7 +113,8 @@ navigation_weight: 2
 {% assign speakers = site.data.mini-course-abstracts | sort: 'lastname' %}
 {% for speaker in speakers %}
 <div class="mini-course-abstract">
-### {{ speaker.firstname }} {{speaker.lastname}}{% if speaker.title %}: {{speaker.title}}{% endif %}
+{% capture speakername %}{{ speaker.firstname }} {{ speaker.lastname }} {% endcapture %}
+<h3 id="{{ speakername | slugify }}">{{ speakername }}{% if speaker.title %} — {{speaker.title}}{% endif %}</h3>
 {% if speaker.abstract %}{{ speaker.abstract }}<br/>
 {% for lecture in speaker.lectures %}
 1. **{{ lecture.title}}:** {{ lecture.abstract }}

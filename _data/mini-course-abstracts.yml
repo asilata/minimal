@@ -7,6 +7,15 @@
   lastname: Negut
   affiliation: Massachusetts Institute of Technology
   website: https://www.andreinegut.com/
+  title: "Moduli spaces of sheaves: geometry and representation theory"
+  abstract: "The purpose of this mini-course is to study moduli spaces of sheaves on a
+surface, as well as Hecke correspondences between them. Hecke
+correspondences are varieties parametrizing several sheaves on the surface
+which only differ at points, and they lead to interesting operators on the
+cohomology, Chow groups and K-theory of the moduli spaces of sheaves.
+Applications of this picture range from mathematical physics to classical
+problems in the algebraic geometry of hyperkähler manifolds."
+
   
 - firstname: Nicholas
   lastname: Proudfoot
