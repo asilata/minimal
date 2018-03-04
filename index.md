@@ -11,6 +11,8 @@ A major goal of geometric representation theory is to reveal unifying geometric 
 
 The aim of the summer school is to provide mini-courses on active themes in geometric representation theory, including those mentioned above. In addition, there will be research talks on recent progress in the field, and a poster session featuring work of graduate students.
 
+[The summer school poster (pdf).](assets/poster.pdf)
+
 
 ## Mini-course speakers
 
