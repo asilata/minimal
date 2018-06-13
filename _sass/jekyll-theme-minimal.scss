@@ -12,8 +12,8 @@ $link: #3498db;
 $accent: darken($link, 20%);
 $link-hover: $accent;
 $link-background: darken($background, 2%);
-$c1-background: #8dffc6;
-$c2-background: #ffff75;
+$talk-background: #8dffc6;
+$break-background: #ffff75;
 $admin-background: #bdc3c7;
 
 html {
@@ -133,15 +133,14 @@ table {
     width:100%;
     font-size: 85%;
     border-collapse:collapse;
-
 }
 
 tr {
-    /* .c1 { */
-    /*     background-color: $c1-background; */
+    /* .talk { */
+    /*     background-color: $talk-background; */
     /* } */
-    /* .c2 { */
-    /*     background-color: $c2-background; */
+    /* .break { */
+    /*     background-color: $break-background; */
     /* } */
     /* .admin { */
     /*     background-color: $admin-background; */
@@ -149,9 +148,10 @@ tr {
 }
 
 th, td {
-    text-align:left;
-    padding:5px 8px;
-    border-bottom:1px solid $border;
+    padding: 2px 5px;
+    margin: 2px;
+    border: solid 1px $border;
+    text-align: center;
 }
 
 dt {

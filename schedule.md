@@ -7,107 +7,78 @@ navigation_weight: 2
 # {{ page.title }}
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align: left"> </th>
-      <th style="text-align: left">Monday</th>
-      <th style="text-align: left">Tuesday</th>
-      <th style="text-align: left">Wednesday</th>
-      <th style="text-align: left">Thursday</th>
-      <th style="text-align: left">Friday</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">8:30–9:30</td>
-      <td style="text-align: left" class="admin">Registration</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">9:00–10:00</td>
-      <td style="text-align: left" class="c1">C-1</td>
-      <td style="text-align: left" class="c1">C-1</td>
-      <td style="text-align: left" class="c2">C-2</td>
-      <td style="text-align: left" class="c1">C-1</td>
-      <td style="text-align: left" class="c2">C-2</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">10:00–10:30</td>
-      <td style="text-align: left" class="admin">Coffee</td>
-      <td style="text-align: left" class="admin">Coffee</td>
-      <td style="text-align: left" class="admin">Coffee</td>
-      <td style="text-align: left" class="admin">Coffee</td>
-      <td style="text-align: left" class="admin">Coffee</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">10:30–11:30</td>
-      <td style="text-align: left">RT-1</td>
-      <td style="text-align: left">RT-2</td>
-      <td style="text-align: left">RT-3</td>
-      <td style="text-align: left">RT-4</td>
-      <td style="text-align: left">RT-5</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">11:30–1:30</td>
-      <td style="text-align: left" class="admin">Lunch</td>
-      <td style="text-align: left" class="admin">Lunch</td>
-      <td style="text-align: left" class="admin">Lunch</td>
-      <td style="text-align: left" class="admin">Lunch</td>
-      <td style="text-align: left" class="admin">Lunch</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">1:30–2:30</td>
-      <td style="text-align: left" class="c2">C-2</td>
-      <td style="text-align: left">C-4</td>
-      <td rowspan="6" style="text-align: left" class="admin">Free afternoon</td>
-      <td style="text-align: left">PS-3</td>
-      <td style="text-align: left">C-3</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">2:30–3:00</td>
-      <td style="text-align: left">Coffee</td>
-      <td style="text-align: left">Coffee</td>
-      <!-- <td style="text-align: left"> </td> -->
-      <td style="text-align: left">Coffee</td>
-      <td style="text-align: left">Coffee</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">3:00–4:00</td>
-      <td style="text-align: left">C-3</td>
-      <td style="text-align: left">C-3</td>
-      <!-- <td style="text-align: left"> </td> -->
-      <td style="text-align: left">C-4</td>
-      <td style="text-align: left">C-4</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">4:00-5:00</td>
-      <td style="text-align: left">PS-1</td>
-      <td style="text-align: left">PS-2</td>
-      <!-- <td style="text-align: left"> </td> -->
-      <td style="text-align: left">PS-4</td>
-      <td style="text-align: left">PS-5</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">5:00–6:00</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left">Poster session</td>
-      <!-- <td style="text-align: left"> </td> -->
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">6:00–9:00</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left">Dinner</td>
-      <!-- <td style="text-align: left"> </td> -->
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
-    </tr>
-  </tbody>
-</table>
+<thead><tr><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th></tr></thead><tbody>
+ <tr>
+ <td>08:30</td> <td>Registration</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td class="time">09:00</td>
+ <td rowspan="2" class="talk">Stroppel 1</td>
+ <td rowspan="2" class="talk">Stroppel 2</td>
+ <td rowspan="2" class="talk">Proudfoot 2</td>
+ <td rowspan="2" class="talk">Stroppel 3</td>
+ <td rowspan="2" class="talk">Gordon 3</td>
+ </tr>
+ <tr></tr>
+ <tr>
+ <td>10:00</td>
+ <td rowspan="2" class="break">Coffee</td>
+ <td rowspan="2" class="break">Coffee</td>
+ <td class="break">Coffee</td>
+ <td rowspan="2" class="break">Coffee</td>
+ <td rowspan="2" class="break">Coffee</td></tr>
+ <tr>
+ <td>10:15</td>
+ <td rowspan="3">Gordon 1</td>
+ </tr>
+ <tr>
+ <td>10:30</td>
+ <td rowspan="3">Kanstrup</td>
+ <td rowspan="3">Negut 2</td>
+ <td rowspan="3">Negut 3</td>
+ <td rowspan="3">Shapiro</td>
+ </tr>
+ <tr>
+ <td>11:00</td>
+ </tr>
+ <tr>
+ <td>11:15</td>
+ <td>Coffee</td>
+ </tr>
+ <tr>
+ <td>11:30</td>
+ <td rowspan="4">Lunch</td><td rowspan="4">Lunch</td><td rowspan="2">PS 3</td><td rowspan="4">Lunch</td><td rowspan="4">Lunch</td>
+ </tr>
+ <tr>
+ <td>12:00</td>
+ </tr>
+ <tr>
+ <td>12:30</td>
+ <td rowspan="2">Lunch</td>
+ </tr>
+ <tr><td>13:00</td>
+ </tr>
+ <tr><td>13:30</td>
+ <td rowspan="2">Negut 1</td>
+ <td rowspan="2">Proudfoot 1</td>
+ <td rowspan="7">Free afternoon</td>
+ <td rowspan="2">Gordon 2</td>
+ <td rowspan="2">Proudfoot 3</td>
+ </tr>
+ <tr><td>14:00</td></tr>
+ <tr><td>14:30</td><td>Coffee</td>
+ <td rowspan="2">PS 2</td>
+ <td>Coffee</td><td>Coffee</td></tr>
+ <tr><td>15:00</td>
+ <td rowspan="2">Mirković</td><td rowspan="2">Saunders</td><td rowspan="2">Sutherland</td></tr>
+ <tr><td>15:30</td><td rowspan="4">Poster session</td></tr>
+ <tr><td>16:00</td><td rowspan="2">PS 1</td>
+ <td rowspan="2">PS 4</td>
+ <td rowspan="2">PS 5</td></tr>
+ <tr><td>16:30</td></tr>
+ <tr><td>17:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>18:00</td><td>&nbsp;</td><td>Conference Dinner</td><td>&nbsp;</td><td>&nbsp;</td><td></td></tr>
+</tbody></table>
 
 ## Mini-courses 
 {% assign speakers = site.data.mini-course-abstracts | sort: 'lastname' %}
