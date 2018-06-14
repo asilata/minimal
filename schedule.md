@@ -43,7 +43,7 @@ navigation_weight: 2
  </tr>
  <tr>
  <td>11:15</td>
- <td>Coffee</td>
+ <td>Break</td>
  </tr>
  <tr>
  <td>11:30</td>
@@ -71,12 +71,13 @@ navigation_weight: 2
  <td>Coffee</td><td>Coffee</td></tr>
  <tr><td>15:00</td>
  <td rowspan="2">Mirković</td><td rowspan="2">Saunders</td><td rowspan="2">Sutherland</td></tr>
- <tr><td>15:30</td><td rowspan="4">Poster session</td></tr>
+ <tr><td>15:30</td><td rowspan="5">Poster session</td></tr>
  <tr><td>16:00</td><td rowspan="2">PS 1</td>
  <td rowspan="2">PS 4</td>
  <td rowspan="2">PS 5</td></tr>
  <tr><td>16:30</td></tr>
  <tr><td>17:00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>17:30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>18:00</td><td>&nbsp;</td><td>Conference Dinner</td><td>&nbsp;</td><td>&nbsp;</td><td></td></tr>
 </tbody></table>
 
