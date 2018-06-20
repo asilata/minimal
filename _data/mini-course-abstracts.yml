@@ -21,15 +21,8 @@ problems in the algebraic geometry of hyperkähler manifolds."
   lastname: Proudfoot
   affiliation: University of Oregon
   website: http://pages.uoregon.edu/njp/
-  title: The Hikita Conjecture
-  abstract: "Conical symplectic resolutions often come in dual pairs, and the Hikita conjecture relates the cohomology of one resolution to the coordinate ring of the other. These talks will be an overview of the conjecture and its various generalizations. Along the way, I will touch on a number of fundamental topics in the theory of conical symplectic resolutions, including quantizations and quantum cohomology. Lecture notes and exercises are available [on Nick's webpage](http://pages.uoregon.edu/njp/IST.html)."
-  lectures:
-    - title: "Category $$\\mathcal{O}$$, symplectic duality, and the Hikita conjecture"
-      abstract: "The category $$\\mathcal{O}$$ for a semisimple Lie algebra can be interpreted geometrically in terms of the Springer resolution, and then generalized to other symplectic resolutions.  These resolutions tend to come in dual pairs whose associated categories are related by Koszul duality.  After introducing these concepts, I will discuss various versions of the Hikita conjecture, which relates the cohomology of one resolution to the coordinate ring of its dual."
-    - title: "Equivariant Hikita"
-      abstract: "I will state Nakajima’s extension of Hikita’s conjecture, which relates the equivariant cohomology of one resolution (for the conical action) to the quantized coordinate ring of the other. I will also describe the Higgs/Coulomb constructions which are expected to be the source of more examples."
-    - title: "Quantum Hikita"
-      abstract: "I will describe the most recent version of Hikita’s conjecture, due to Kamnitzer, McBreen, and myself, which relates the quantum cohomology of one resolution to the Hochschild homology of the quantized coordinate ring on the other side."
+  title: "Category $\\mathcal{O}$, symplectic duality, and the Hikita conjecture"
+  abstract: "The category $$\\mathcal{O}$$ for a semisimple Lie algebra can be interpreted geometrically in terms of the Springer resolution, and then generalized to other symplectic resolutions.  These resolutions tend to come in dual pairs whose associated categories are related by Koszul duality.  After introducing these concepts, I will discuss various versions of the Hikita conjecture, which relates the cohomology of one resolution to the coordinate ring of its dual. Lecture notes and exercises are available [on Nick's webpage](http://pages.uoregon.edu/njp/IST.html)."
 
 - firstname: Catharina
   lastname: Stroppel
