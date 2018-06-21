@@ -1,0 +1,103 @@
+- day: Monday
+  date: 9 July
+  events:
+    - time: 8:30–9:00
+      title: Registration
+    - time: 9:00–10:00
+      title: Catharina Stroppel 1
+    - time: 10:00–10:30
+      title: Coffee
+    - time: 10:30–11:30
+      title: Tina Kanstrup
+    - time: 11:30–13:30
+      title: Lunch
+    - time: 13:30–14:30
+      title: Andrei Negut 1
+    - time: 14:30–15:00
+      title: Coffee
+    - time: 15:00–16:00
+      title: Ivan Mirković
+    - time: 16:00–17:00
+      title: Problem Session 1
+
+- day: Tuesday
+  date: 10 July
+  events:
+    - time: 9:00–10:00
+      title: Catharina Stroppel 2
+    - time: 10:00–10:30
+      title: Coffee
+    - time: 10:30–11:30
+      title: Andrei Negut 2
+    - time: 11:30–13:30
+      title: Lunch
+    - time: 13:30–14:30
+      title: Nicholas Proudfoot 1
+    - time: 14:30–15:30
+      title: Problem Session 2
+    - time: 15:30–17:30
+      title: Poster Session
+    - time: 18:00–21:00
+      title: Conference Dinner
+
+- day: Wednesday
+  date: 11 July
+  events:
+    - time: 9:00–10:00
+      title: Nicholas Proudfoot 2
+    - time: 10:00–10:15
+      title: Coffee
+    - time: 10:15–11:15
+      title: Iain Gordon 1
+    - time: 11:15–11:30
+      title: Break
+    - time: 11:30–12:30
+      title: Problem Session 3
+    - time: 12:30–13:30
+      title: Lunch
+    - time: 13:30–17:30
+      title: Free afternoon
+
+- day: Thursday
+  date: 12 July
+  events:
+    - time: 9:00–10:00
+      title: Catharina Stroppel 3
+    - time: 10:00–10:30
+      title: Coffee
+    - time: 10:30–11:30
+      title: Andrei Negut 3
+    - time: 11:30–13:30
+      title: Lunch
+    - time: 13:30–14:30
+      title: Iain Gordon 2
+    - time: 14:30–15:00
+      title: Coffee
+    - time: 15:00–16:00
+      title: Neil Saunders
+    - time: 16:00–17:00
+      title: Problem Session 4
+
+- day: Friday
+  date: 13 July
+  events:
+    - time: 9:00–10:00
+      title: Iain Gordon 3
+    - time: 10:00–10:30
+      title: Coffee
+    - time: 10:30–11:30
+      title: Alexander Shapiro
+    - time: 11:30–13:30
+      title: Lunch
+    - time: 13:30–14:30
+      title: Nicholas Proudfoot 3
+    - time: 14:30–15:00
+      title: Coffee
+    - time: 15:00–16:00
+      title: Tom Sutherland
+    - time: 16:00–17:00
+      title: Problem Session 5
+    
+
+          
+    
