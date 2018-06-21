@@ -1,5 +1,11 @@
 - firstname: Iain
   lastname: Gordon
+
+- firstname: Mikhail
+  lastname: Bershtein
+
+- firstname: Alex
+  lastname: Rossi Miller
   
 - firstname: Andrei
   lastname: Negut
@@ -135,9 +141,6 @@
   
 - firstname: Yu
   lastname: Jiang
-  
-- firstname: Adam
-  lastname: Jones
   
 - firstname: Yaping
   lastname: Yang
