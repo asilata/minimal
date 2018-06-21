@@ -12,11 +12,15 @@
   lastname: Saunders
   website: https://sites.google.com/site/neiljsaunders/
   affiliation: University of Greenwich
+  title: "Representations and Combinatorics of Weyl Groups from Springer Theory"
+  abstract: "Let $$G$$ be a connected, reductive algebraic group defined over $$\\mathbb{C}$$. The celebrated Springer Correspondence gives a bijection between theirreducible representations of the Weyl group $$W$$ of $$G$$ and certain pairs comprising a $$G$$-orbit on nilpotent cone of the Lie algebra of $$G$$ and an irreducible local system attached to that $$G$$-orbit. These irreducible representations can be concretely realised as a W-action on the top degree homology of the so-called Springer fibres. These Springer fibres are geometrical very rich and provide interesting Weyl group combinatorics: for instance, the irreducible components of these Springer fibres form a basis for the corresponding irreducible representation of $$W$$. In this talk, I'll give a general survey of the Springer Correspondence and discuss recent joint work on Kato's Exotic Springer correspondence in Type C."
   
 - firstname: Alexander
   lastname: Shapiro
   website: 
   affiliation: University of Toronto
+  title: "On modular functor and representation theory."
+  abstract: "A quantized higher Teichmüller theory assigns an algebra and its Hilbert space representation to each choice of a surface and a Lie group $G$. The modular functor conjecture, as formulated by Fock and Goncharov, predicts how this assignment behaves under cutting and gluing of surfaces. I will outline a proof of this conjecture for $SL_n$ and discuss how different statements on positive representations of quantum groups arise as particular cases of the conjecture. This is a joint work with Gus Schrader."
 
 - firstname: Tom
   lastname: Sutherland
