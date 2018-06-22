@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talks
+title: Titles and abstracts
 navigation_weight: 3
 ---
 
