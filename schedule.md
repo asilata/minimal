@@ -13,7 +13,7 @@ navigation_weight: 2
 {% for event in day.events %}
 <tr>
 <td>{{ event.time }}</td>
-<td>{{ event.title }}</td>
+<td>{% if event.link %}<a href="{{ event.link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}</td>
 </tr>
 {% endfor %}
 </table>

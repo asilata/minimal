@@ -5,18 +5,22 @@
       title: Registration
     - time: 9:00–10:00
       title: Catharina Stroppel (First talk)
+      link: talks.html#catharina-stroppel 
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
       title: Tina Kanstrup
+      link: talks.html#tina-kanstrup
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Andrei Negut (First talk)
+      link: talks.html#andrei-negut
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
       title: Ivan Mirković
+      link: talks.html#ivan-mirković
     - time: 16:00–17:00
       title: Problem Session 1
 
@@ -25,14 +29,17 @@
   events:
     - time: 9:00–10:00
       title: Catharina Stroppel (Second talk)
+      link: talks.html#catharina-stroppel 
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
       title: Andrei Negut (Second talk)
+      link: talks.html#andrei-negut      
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Nicholas Proudfoot (First talk)
+      link: talks.html#nicholas-proudfoot      
     - time: 14:30–15:30
       title: Problem Session 2
     - time: 15:30–17:30
@@ -45,10 +52,12 @@
   events:
     - time: 9:00–10:00
       title: Nicholas Proudfoot (Second talk)
+      link: talks.html#nicholas-proudfoot
     - time: 10:00–10:15
       title: Coffee
     - time: 10:15–11:15
       title: Iain Gordon (First talk)
+      link: talks.html#iain-gordon      
     - time: 11:15–11:30
       title: Break
     - time: 11:30–12:30
@@ -63,18 +72,22 @@
   events:
     - time: 9:00–10:00
       title: Catharina Stroppel (Third talk)
+      link: talks.html#catharina-stroppel 
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
       title: Andrei Negut (Third talk)
+      link: talks.html#andrei-negut      
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Iain Gordon (Second talk)
+      link: talks.html#iain-gordon            
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
       title: Neil Saunders
+      link: talks.html#neil-saunders      
     - time: 16:00–17:00
       title: Problem Session 4
 
@@ -83,18 +96,22 @@
   events:
     - time: 9:00–10:00
       title: Iain Gordon (Third talk)
+      link: talks.html#iain-gordon            
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
       title: Alexander Shapiro
+      link: talks.html#alexander-shapiro
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Nicholas Proudfoot (Third talk)
+      link: talks.html#nicholas-proudfoot      
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
       title: Tom Sutherland
+      link: talks.html#tom-sutherland
     - time: 16:00–17:00
       title: Problem Session 5
     
