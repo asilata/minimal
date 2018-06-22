@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registration
-navigation_weight: 3
+navigation_weight: 6
 ---
 
 # {{ page.title }}

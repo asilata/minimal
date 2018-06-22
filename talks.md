@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talks
-navigation_weight: 2
+navigation_weight: 3
 ---
 
 # {{ page.title }}
@@ -11,7 +11,7 @@ navigation_weight: 2
 {% for speaker in speakers %}
 <div class="mini-course-abstract">
 {% capture speakername %}{{ speaker.firstname }} {{ speaker.lastname }} {% endcapture %}
-<h3 id="{{ speakername | slugify }}">{{ speakername }}{% if speaker.title %} — {{speaker.title}}{% endif %}</h3>
+<h3 id="{{ speakername | slugify }}">{{ speakername }}{% if speaker.title %} — {{speaker.title}}{% else %} — TBA{% endif %}</h3>
 {% if speaker.abstract %}{{ speaker.abstract }}<br/>
 {% for lecture in speaker.lectures %}
 1. **{{ lecture.title}}:** {{ lecture.abstract }}
@@ -24,7 +24,7 @@ navigation_weight: 2
 {% assign speakers = site.data.research-talk-abstracts | sort: 'lastname' %}
 {% for speaker in speakers %}
 <div class="research-talk-abstract">
-**{{ speaker.firstname }} {{speaker.lastname}}{% if speaker.title %}: {{speaker.title}}{% endif %}**
+**{{ speaker.firstname }} {{speaker.lastname}}{% if speaker.title %} — {{speaker.title}}{% else %} — TBA{% endif %}**
 {% if speaker.abstract %}<br/>{{ speaker.abstract }}{% endif %}
 </div>
 {% endfor %}

@@ -133,38 +133,22 @@ blockquote {
     font-style:italic;
 }
 
-table {
-    width:100%;
-    font-size: 85%;
+.schedule {
     border-collapse:collapse;
-}
-
-tr {
-    /* .talk { */
-    /*     background-color: $talk-background; */
-    /* } */
-    /* .break { */
-    /*     background-color: $break-background; */
-    /* } */
-    /* .admin { */
-    /*     background-color: $admin-background; */
-    /* } */
-}
-
-th, td {
-    padding: 2px 5px;
-    margin: 2px;
+    th, td {
+    padding: 0.5em;
+    margin: 0.2em;
     border: solid 1px $border;
     text-align: center;
+    }
+    tr:nth-child(even) {
+        background-color: lighten($border, 7%);
+    }
 }
 
 dt {
     color:#444;
     font-weight:700;
-}
-
-th {
-    color:#444;
 }
 
 img {

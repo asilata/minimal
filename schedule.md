@@ -9,11 +9,14 @@ navigation_weight: 2
 {% assign days = site.data.schedule %}
 {% for day in days %}
 ## {{ day.day }} ({{ day.date}})
-<ul>
+<table class="schedule">
 {% for event in day.events %}
-<li>{{ event.time }}: {{ event.title }}</li>
+<tr>
+<td>{{ event.time }}</td>
+<td>{{ event.title }}</td>
+</tr>
 {% endfor %}
-</ul>
+</table>
 
 {% endfor %}
 

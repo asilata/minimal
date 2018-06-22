@@ -4,7 +4,7 @@
     - time: 8:30–9:00
       title: Registration
     - time: 9:00–10:00
-      title: Catharina Stroppel 1
+      title: Catharina Stroppel (First talk)
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
@@ -12,7 +12,7 @@
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
-      title: Andrei Negut 1
+      title: Andrei Negut (First talk)
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
@@ -24,15 +24,15 @@
   date: 10 July
   events:
     - time: 9:00–10:00
-      title: Catharina Stroppel 2
+      title: Catharina Stroppel (Second talk)
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
-      title: Andrei Negut 2
+      title: Andrei Negut (Second talk)
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
-      title: Nicholas Proudfoot 1
+      title: Nicholas Proudfoot (First talk)
     - time: 14:30–15:30
       title: Problem Session 2
     - time: 15:30–17:30
@@ -44,11 +44,11 @@
   date: 11 July
   events:
     - time: 9:00–10:00
-      title: Nicholas Proudfoot 2
+      title: Nicholas Proudfoot (Second talk)
     - time: 10:00–10:15
       title: Coffee
     - time: 10:15–11:15
-      title: Iain Gordon 1
+      title: Iain Gordon (First talk)
     - time: 11:15–11:30
       title: Break
     - time: 11:30–12:30
@@ -62,15 +62,15 @@
   date: 12 July
   events:
     - time: 9:00–10:00
-      title: Catharina Stroppel 3
+      title: Catharina Stroppel (Third talk)
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
-      title: Andrei Negut 3
+      title: Andrei Negut (Third talk)
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
-      title: Iain Gordon 2
+      title: Iain Gordon (Second talk)
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
@@ -82,7 +82,7 @@
   date: 13 July
   events:
     - time: 9:00–10:00
-      title: Iain Gordon 3
+      title: Iain Gordon (Third talk)
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
@@ -90,7 +90,7 @@
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
-      title: Nicholas Proudfoot 3
+      title: Nicholas Proudfoot (Third talk)
     - time: 14:30–15:00
       title: Coffee
     - time: 15:00–16:00
