@@ -26,7 +26,7 @@ The aim of the summer school is to provide mini-courses on active themes in geom
 {% else %}{{ speakername }}
 {% endif %}
 {% if speaker.affiliation %}<em>({{ speaker.affiliation }})</em>{% endif %}
-{% if speaker.title %} — <a href="schedule.html#{{ speakername | slugify }}">{{ speaker.title }}</a>{% else %} — TBA{% endif %}
+{% if speaker.title %} — <a href="talks.html#{{ speakername | slugify }}">{{ speaker.title }}</a>{% else %} — TBA{% endif %}
 </li>
 {% endfor %}
 </ul>
@@ -42,7 +42,7 @@ The aim of the summer school is to provide mini-courses on active themes in geom
 {% else %}{{ speaker.firstname }} {{ speaker.lastname  }}
 {% endif %}
 {% if speaker.affiliation %}<em>({{ speaker.affiliation }})</em>{% endif %}
-{% if speaker.title %} — <a href="schedule.html#{{ speakername | slugify }}">{{ speaker.title }}</a>{% else %} — TBA{% endif %}
+{% if speaker.title %} — <a href="talks.html#{{ speakername | slugify }}">{{ speaker.title }}</a>{% else %} — TBA{% endif %}
 </li>
 {% endfor %}
 </ul>
