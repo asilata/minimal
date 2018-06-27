@@ -2,6 +2,8 @@
   lastname: Mirković
   website: http://people.math.umass.edu/~mirkovic/
   affiliation: University of Massachusetts, Amherst
+  title: "Loop Grassmannians of quivers"
+  abstract: "This is a joint work with Yaping Yang and Gufang Zhao. An earlier construction generalizes the construction of loop Grassmannians by replacing the data of a reductive group by a based quadratic form. The talk will recast this construction in terms of quivers and use this to quantize the construction."
   
 - firstname: Tina
   lastname: Kanstrup
