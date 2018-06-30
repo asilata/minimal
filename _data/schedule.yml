@@ -1,17 +1,17 @@
 - day: Monday
   date: 9 July
   events:
-    - time: 8:30–9:00
-      title: Registration
-    - time: 9:00–10:00
+    - time: 9:00–9:30
+      title: Registration and opening remarks
+    - time: 9:30–10:30
       title: Catharina Stroppel (First talk)
       link: talks.html#catharina-stroppel 
-    - time: 10:00–10:30
+    - time: 10:30–10:45
       title: Coffee
-    - time: 10:30–11:30
+    - time: 10:45–11:45
       title: Tina Kanstrup
       link: talks.html#tina-kanstrup
-    - time: 11:30–13:30
+    - time: 11:45–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Andrei Negut (First talk)
@@ -28,8 +28,8 @@
   date: 10 July
   events:
     - time: 9:00–10:00
-      title: Catharina Stroppel (Second talk)
-      link: talks.html#catharina-stroppel 
+      title: Nicholas Proudfoot (First talk)
+      link: talks.html#nicholas-proudfoot      
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
@@ -38,8 +38,8 @@
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
-      title: Nicholas Proudfoot (First talk)
-      link: talks.html#nicholas-proudfoot      
+      title: Catharina Stroppel (Second talk)
+      link: talks.html#catharina-stroppel 
     - time: 14:30–15:30
       title: Problem Session 2
     - time: 15:30–17:30
@@ -71,13 +71,13 @@
   date: 12 July
   events:
     - time: 9:00–10:00
-      title: Catharina Stroppel (Third talk)
-      link: talks.html#catharina-stroppel 
+      title: Andrei Negut (Third talk)
+      link: talks.html#andrei-negut      
     - time: 10:00–10:30
       title: Coffee
     - time: 10:30–11:30
-      title: Andrei Negut (Third talk)
-      link: talks.html#andrei-negut      
+      title: Catharina Stroppel (Third talk)
+      link: talks.html#catharina-stroppel 
     - time: 11:30–13:30
       title: Lunch
     - time: 13:30–14:30
