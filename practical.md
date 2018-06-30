@@ -41,10 +41,32 @@ Get off at Maria Gugging/IST Austria to get to the institute.
 
 -----
 
-## Getting around within Vienna and Klosterneuburg
+## Conference buses
 
-### Conference buses
-We will organise special conference buses going from the Klosterneuburg city center to IST Austria each day in the morning. The schedule for the buses will appear here once it has been finalized.
+We will organise special conference buses going from the Klosterneuburg city center to IST Austria each day in the morning.
+
+### Morning schedule (Monday, Tuesday, Wednesday, Thursday, and Friday:
+**8:15** – departure from Heiligenstadt station  
+**8:29** – stop at Niedermarkt in Klosterneuburg  
+**8:37** – arrival at IST Austria
+ 
+### Evening schedule (Monday, Thursday, and Friday):
+**5:30** – departure from IST Austria  
+**5:38** – stop at Niedermarkt in Klosterneuburg  
+**5:49** – arrival at Heiligenstadt station
+
+### Evening schedule (Tuesday):
+The conference dinner will last until around 8:00. We recommend participants to take the IST shuttle at 8:40pm, scheduled as follows.  
+**8:40** – departure from IST Austria  
+**8:48** – stop at Klosterneuburg Stadtplatz  
+**8:59** – arrival at Heilgenstadt station
+ 
+### Other days/times:
+At other times, such as on the free afternoon on Wednesday, you can take the IST shuttle. The full schedule is available [here in pdf](https://ist.ac.at/fileadmin/user_upload/IST_shuttle_bus_new.pdf).
+
+-----
+
+## Getting around within Vienna and Klosterneuburg
 
 ### Public transport in Vienna
 
