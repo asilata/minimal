@@ -2,6 +2,8 @@
   lastname: Gordon
   affiliation: University of Edinburgh
   website: http://www.maths.ed.ac.uk/~igordon/
+  title: "Symplectic Reflection Algebras: the KZ functor and Quiver Varieties"
+  abstract: "I will discuss the construction of Symplectic Reflection Algebras generally, the rational Cherednik algebras and the geometric and algebraic construction of the KZ functor through a relationship to quantization of certain quiver varieties. More generally, if I have time, I will also discuss relations between these and resolution of symplectic singularities, where quiver varieties are now local models."
 
 - firstname: Andrei
   lastname: Negut
