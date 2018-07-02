@@ -45,7 +45,7 @@ Get off at Maria Gugging/IST Austria to get to the institute.
 
 We will organise special conference buses going from the Klosterneuburg city center to IST Austria each day in the morning.
 
-### Morning schedule (Monday, Tuesday, Wednesday, Thursday, and Friday:
+### Morning schedule (Monday, Tuesday, Wednesday, Thursday, and Friday):
 **8:15** – departure from Heiligenstadt station  
 **8:29** – stop at Niedermarkt in Klosterneuburg  
 **8:37** – arrival at IST Austria
