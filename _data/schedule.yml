@@ -1,8 +1,10 @@
 - day: Monday
   date: 9 July
   events:
-    - time: 9:00–9:30
-      title: Registration and opening remarks
+    - time: 8:30–9:20
+      title: Registration
+    - time: 9:20–9:30
+      title: Opening remarks
     - time: 9:30–10:30
       title: Catharina Stroppel (First talk)
       link: talks.html#catharina-stroppel 
@@ -34,8 +36,10 @@
       title: Coffee
     - time: 10:30–11:30
       title: Andrei Negut (Second talk)
-      link: talks.html#andrei-negut      
-    - time: 11:30–13:30
+      link: talks.html#andrei-negut
+    - time: 11:30–11:40
+      title: Group photo
+    - time: 11:40–13:30
       title: Lunch
     - time: 13:30–14:30
       title: Catharina Stroppel (Second talk)
