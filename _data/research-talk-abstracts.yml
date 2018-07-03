@@ -28,5 +28,7 @@
   lastname: Sutherland
   website: http://www.staff.uni-mainz.de/tsutherl/
   affiliation: University of Mainz
+  title: "Theta functions on moduli spaces of local systems"
+  abstract: "We consider the so-called theta basis of the ring of regular functions on moduli spaces of $SL(2,\\mathbb{C})$-local systems on Riemann surfaces with (possibly irregular) singularities, whose structure coeﬃcients come from the tropical geometry of the moduli space which here are given by the representation theory of an associated quiver. We will focus on the lowest dimensional examples of such moduli spaces for which three elements of the theta basis which compute the trace of the monodromy of the local systems around particular loops on the Riemann surface embed the moduli space as an affine cubic surface in $\\mathbb{C}^3$. In these cases the coefficients of the deﬁning cubic equation arise from the representation theory of a ﬁnite, affine or elliptic Dynkin quiver."
   
   

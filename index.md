@@ -37,9 +37,10 @@ The aim of the summer school is to provide mini-courses on active themes in geom
 
 <ul>
 {% for speaker in speakers %}
+{% capture speakername %}{{ speaker.firstname }} {{ speaker.lastname }} {% endcapture %}
 <li>{% if speaker.website %}
-<a href="{{ speaker.website }}">{{ speaker.firstname }} {{ speaker.lastname }}</a>
-{% else %}{{ speaker.firstname }} {{ speaker.lastname  }}
+<a href="{{ speaker.website }}">{{ speakername }}</a>
+{% else %}{{ speakername  }}
 {% endif %}
 {% if speaker.affiliation %}<em>({{ speaker.affiliation }})</em>{% endif %}
 {% if speaker.title %} — <a href="talks.html#{{ speakername | slugify }}">{{ speaker.title }}</a>{% else %} — TBA{% endif %}
