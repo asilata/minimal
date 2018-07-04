@@ -11,6 +11,11 @@ navigation_weight: 4
 The Institute of Science and Technology Austria is located in Maria Gugging, Klosterneuburg, 18 km outside of Vienna. The closest airport is the Vienna International Airport (VIE), and the closest international train station is Wien Hauptbahnhof. 
 The hotels are located in the Klosterneuburg city center, within walking distance to both the Klosterneuburg Kierling Bahnhof and Stadtplatz Klosterneuburg.
 
+<p class="warning">
+The U-Bahn line U4 will not go to Heiligenstadt during the week of the summer school. The directions below have been modified accordingly.
+For accurate and specific directions, you can always use the [OEBB route planner](http://fahrplan.oebb.at/bin/query.exe/en).
+</p>
+
 ### Getting to Klosterneuburg/IST from Vienna International Airport
 
 If you want to take a taxi, see [below](#taxis).
@@ -22,22 +27,16 @@ Here are directions using public transport.
     More info [here](https://www.wien.info/en/travel-info/to-and-around/airport-to-center/express-train-s7). 
     * **Option 2:** Take the [CAT (City Airport Train)](https://www.wien.info/en/travel-info/to-and-around/airport-to-center/city-airport-train), which is faster but more expensive. You will have to buy a separate ticket for Vienna public transportation upon arrival at Wien Mitte.
       There are also [other options](https://www.wien.info/en/travel-info/to-and-around/airport-to-center).
-2. **Get to Heiligenstadt.** Take the U-Bahn U4 towards Heiligenstadt and get off at Heiligenstadt (the last stop). More info [below](#public-transport).
-3. **Get to Klosterneuburg/IST.** Take the IST Austria Shuttle (Bus 142) or Bus 239 from Heilgenstadt (more info [below](#buses-to-and-from-ist)). 
-Get off at Stadtplatz Klosterneuburg to get to the hotels.
-Get off at Maria Gugging/IST Austria to get to the institute.
+2. **Get to Spittelau.** Take the U-Bahn U4 towards Heiligenstadt and get off at Spittelau (currently the last stop). More info [below](#public-transport).
+3. **Get to Klosterneuburg.** Take the S-Bahn S40 to Klosterneuburg Kierling Bahnhof and walk to the hotels.
+4. **Get to IST.** On weekdays, you can take the IST shuttle (Bus 142) from Stadtplatz Klosterneuburg to Maria Gugging IST Austria.
+On weekends, you can take Bus 400 from Stadtplatz Klosterneuburg to Maria Gugging IST Austria. More information [below](#buses-in-klosterneuburgist).
 
 ### Getting to Klosterneuburg/IST from Vienna city center
 
-#### Most common option
-1. Take the U-Bahn U4 towards Heiligenstadt and get off at Heiligenstadt (the last stop). More info [below]().
-2. Take the IST Austria Shuttle (Bus 142) or Bus 239 from Heilgenstadt (more info [below]()). Get off at Stadtplatz Klosterneuburg to get to the hotels.
-Get off at Maria Gugging/IST Austria to get to the institute.
-
-#### Alternative option
-
 1. Take a train or S-bahn from Vienna to Klosterneuburg city center (specifically from the Vienna stations Heiligenstadt, Spittelau, or Franz-Josefs-Bahnhof to Klosterneuburg Kierling Bahnhof). 
-2. Walk to hotels, or walk to Stadtplatz Klosterneuburg to catch a bus from there to IST (more info [below]()). In the mornings, you can also take a conference bus from the Klosterneuburg city center to IST Austria. More about conference buses [below]().
+2. Walk to hotels, or walk to Stadtplatz Klosterneuburg to catch a bus from there to IST (more info [below](#buses-in-klosterneuburgist)). In the mornings, you can also take a conference bus from the Klosterneuburg city center to IST Austria. More about conference buses [below](#conference-buses).
+3. It is also possible to walk to IST from Klosterneuburg city center. The walk takes about 20 minutes.
 
 -----
 
@@ -84,16 +83,14 @@ Tickets must be validated before boarding.
 
 ### Buses in Klosterneuburg/IST
 
-Both the IST Shuttle (Bus 142) and the Bus 239 stop in front of the Institute, as well as at Stadtplatz Klosterneuburg, and travel to the U-Bahn stop Heiligenstadt on line U4.
+Both the IST Shuttle (Bus 142) and the Bus 400 stop in front of the Institute, as well as at Stadtplatz Klosterneuburg.
 
-**Tickets:** The U4 stop Heiligenstadt is the last stop within the city zone. A separate fare of 1.70 EUR (payable on the bus) is needed for Bus 239.
+**Tickets:** The ticket costs between 2-3 EUR and is payable on the bus.
 
 **Schedule and frequency:**
-The trip takes about 25 minutes. 
-IST Shuttle service runs once or twice an hour on weekdays, and Bus 239 runs approximately every 30 minutes all week long. 
-To get to the IST on Sunday, take bus 239 from Heiligenstadt. 
-From Stadtplatz Klosterneuburg, you can take Bus 239 or Bus 341. 
-More information and the bus schedule can be found [here](https://ist.ac.at/campus-life/shuttle-bus/).
+The trip takes about 15 minutes.
+IST Shuttle (Bus 142) runs once or twice an hour on weekdays but not on Sunday.
+Bus 400 runs approximately every 30 minutes all week long. 
 
 ### Taxis
 
