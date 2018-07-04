@@ -42,7 +42,7 @@ On weekends, you can take Bus 400 from Stadtplatz Klosterneuburg to Maria Guggin
 
 ## Conference buses
 
-We will organise special conference buses going from the Klosterneuburg city center to IST Austria each day in the morning.
+We will organise special conference buses going from the Heiligenstadt station, via the Klosterneuburg city center, to IST Austria each day in the morning.
 
 ### Morning schedule (Monday, Tuesday, Wednesday, Thursday, and Friday):
 **8:15** – departure from Heiligenstadt station  
