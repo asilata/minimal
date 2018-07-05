@@ -9,6 +9,8 @@
   lastname: Kanstrup
   website: http://www.math.uni-bonn.de/people/kanstrup/
   affiliation: Hausdorff Center for Mathematics
+  title: "Link invariants and matrix factorizations."
+  abstract: "Khovanov and Rozansky defined a link invariant called triply graded homology. It is conjectured by Gorsky, Negut and Rasmussen that this invariant can be expressed geometrically by a functor from complexed of Soergel bimodules to the derived category of coherent sheaves on the (dg) flag Hilbert scheme followed by taking global sections. A functor with similar properties has been constructed by Oblomkov and Rozansky using matrix factorizations and it is believed that this functor solves the conjecture. The aim of this joint work in progress with Roman Bezrukavnikov is to relate the two constructions using previous work of Arkhipov and Kanstrup."
   
 - firstname: Neil
   lastname: Saunders
