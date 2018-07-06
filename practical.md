@@ -27,7 +27,7 @@ Here are directions using public transport.
     More info [here](https://www.wien.info/en/travel-info/to-and-around/airport-to-center/express-train-s7). 
     * **Option 2:** Take the [CAT (City Airport Train)](https://www.wien.info/en/travel-info/to-and-around/airport-to-center/city-airport-train), which is faster but more expensive. You will have to buy a separate ticket for Vienna public transportation upon arrival at Wien Mitte.
       There are also [other options](https://www.wien.info/en/travel-info/to-and-around/airport-to-center).
-2. **Get to Spittelau.** Take the U-Bahn U4 towards Heiligenstadt and get off at Spittelau (currently the last stop). More info [below](#public-transport).
+2. **Get to Spittelau.** Take the U-Bahn U4 towards Heiligenstadt and get off at Spittelau (currently the last stop). More info [below](#public-transport-in-vienna).
 3. **Get to Klosterneuburg.** Take the S-Bahn S40 to Klosterneuburg Kierling Bahnhof and walk to the hotels.
 4. **Get to IST.** On weekdays, you can take the IST shuttle (Bus 142) from Stadtplatz Klosterneuburg to Maria Gugging IST Austria.
 On weekends, you can take Bus 400 from Stadtplatz Klosterneuburg to Maria Gugging IST Austria. More information [below](#buses-in-klosterneuburgist).
