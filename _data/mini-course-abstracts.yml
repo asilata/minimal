@@ -10,14 +10,7 @@
   affiliation: Massachusetts Institute of Technology
   website: https://www.andreinegut.com/
   title: "Moduli spaces of sheaves: geometry and representation theory"
-  abstract: "The purpose of this mini-course is to study moduli spaces of sheaves on a
-surface, as well as Hecke correspondences between them. Hecke
-correspondences are varieties parametrizing several sheaves on the surface
-which only differ at points, and they lead to interesting operators on the
-cohomology, Chow groups and K-theory of the moduli spaces of sheaves.
-Applications of this picture range from mathematical physics to classical
-problems in the algebraic geometry of hyperkähler manifolds. <br/>
-Lecture notes are available [here (pdf)](assets/notes/negut-notes.pdf)".
+  abstract: "The purpose of this mini-course is to study moduli spaces of sheaves on a surface, as well as Hecke correspondences between them. Hecke correspondences are varieties parametrizing several sheaves on the surface which only differ at points, and they lead to interesting operators on the cohomology, Chow groups and K-theory of the moduli spaces of sheaves. Applications of this picture range from mathematical physics to classical problems in the algebraic geometry of hyperkähler manifolds.<br/>Lecture notes are available [here (pdf)](assets/notes/negut-notes.pdf)."
 
   
 - firstname: Nicholas
@@ -25,7 +18,7 @@ Lecture notes are available [here (pdf)](assets/notes/negut-notes.pdf)".
   affiliation: University of Oregon
   website: http://pages.uoregon.edu/njp/
   title: "Category $\\mathcal{O}$, symplectic duality, and the Hikita conjecture"
-  abstract: "The category $$\\mathcal{O}$$ for a semisimple Lie algebra can be interpreted geometrically in terms of the Springer resolution, and then generalized to other symplectic resolutions.  These resolutions tend to come in dual pairs whose associated categories are related by Koszul duality.  After introducing these concepts, I will discuss various versions of the Hikita conjecture, which relates the cohomology of one resolution to the coordinate ring of its dual. <br/>Lecture notes and exercises are available [on Nick's webpage](http://pages.uoregon.edu/njp/IST.html)."
+  abstract: "The category $$\\mathcal{O}$$ for a semisimple Lie algebra can be interpreted geometrically in terms of the Springer resolution, and then generalized to other symplectic resolutions.  These resolutions tend to come in dual pairs whose associated categories are related by Koszul duality.  After introducing these concepts, I will discuss various versions of the Hikita conjecture, which relates the cohomology of one resolution to the coordinate ring of its dual.<br/>Lecture notes and exercises are available [on Nick's webpage](http://pages.uoregon.edu/njp/IST.html)."
 
 - firstname: Catharina
   lastname: Stroppel
