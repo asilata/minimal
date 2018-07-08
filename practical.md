@@ -36,7 +36,6 @@ On weekends, you can take Bus 400 from Stadtplatz Klosterneuburg to Maria Guggin
 
 1. Take a train or S-bahn from Vienna to Klosterneuburg city center (specifically from the Vienna stations Heiligenstadt, Spittelau, or Franz-Josefs-Bahnhof to Klosterneuburg Kierling Bahnhof). 
 2. Walk to hotels, or walk to Stadtplatz Klosterneuburg to catch a bus from there to IST (more info [below](#buses-in-klosterneuburgist)). In the mornings, you can also take a conference bus from the Klosterneuburg city center to IST Austria. More about conference buses [below](#conference-buses).
-3. It is also possible to walk to IST from Klosterneuburg city center. The walk takes about 20 minutes.
 
 -----
 
