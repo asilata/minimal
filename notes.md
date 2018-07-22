@@ -17,7 +17,7 @@ More coming soon!
 
 ## Nicholas Proudfoot
 * [Notes (Lecture 1)](assets/notes/proudfoot-1-elek.pdf) courtesy of Balazs Elek
-* [Notes (Lecture 1)](assets/notes/proudfoot-3-dawydiak.pdf) courtesy of Stefan Dawydiak
+* [Notes (Lecture 3)](assets/notes/proudfoot-3-dawydiak.pdf) courtesy of Stefan Dawydiak
 * [Notes (Lectures 1, 2, and 3)](assets/notes/proudfoot-mathers.pdf) courtesy of Richard Mathers
 
 ## Catharina Stroppel
