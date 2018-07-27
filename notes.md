@@ -22,4 +22,5 @@ More coming soon!
 
 ## Catharina Stroppel — Springer fibers: basic properties and applications to categorification
 * [Notes (Lecture 1)](assets/notes/stroppel-1-walters.pdf) courtesy of Robin Walters
+* [Notes (Lecture 2)](assets/notes/stroppel-2-zaccanelli.pdf) courtesy of Giovanni Zaccanelli
 * [Notes (Lecture 3)](assets/notes/stroppel-3-hristova.pdf) courtesy of Katerina Hristova
