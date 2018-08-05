@@ -13,6 +13,7 @@ More coming soon!
 * [Notes (Lectures 1, 2, and 3)](assets/notes/gordon-mathers.pdf) courtesy of Richard Mathers
 
 ## Andrei Negut — Moduli spaces of sheaves: geometry and representation theory
+* [Notes (Lecture 1)](assets/notes/negut-1-zivanovic.pdf) courtesy of Filip Zivanovic
 * [Notes (Lectures 1, 2, 3, and more)](assets/notes/negut-negut.pdf) by Andrei Negut
 
 ## Nicholas Proudfoot — Category $O$, symplectic duality, and the Hikita conjecture
