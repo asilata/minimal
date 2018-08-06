@@ -30,4 +30,5 @@ More coming soon!
 * [Notes (Lecture 2)](assets/notes/stroppel-2-zaccanelli.pdf) courtesy of Giovanni Zaccanelli
 * [Notes (Lecture 3)](assets/notes/stroppel-3-hristova.pdf) courtesy of Katerina Hristova
 * [Exercise Sheet 1](assets/notes/stroppel-exercises-1.pdf)
+* [Exercise Sheet 2](assets/notes/stroppel-exercises-2.pdf)
 * [Exercise Sheet 3](assets/notes/stroppel-exercises-3.pdf)
