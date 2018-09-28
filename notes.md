@@ -19,7 +19,7 @@ More coming soon!
 
 ## Nicholas Proudfoot — Category $O$, symplectic duality, and the Hikita conjecture
 * [Notes (Lecture 1)](assets/notes/proudfoot-1-elek.pdf) courtesy of Balazs Elek
-* [Notes (Lecture 2)](assets/notes/proudfoot-2-trampel.pdf) courtesy of Trey Trampel
+* [Notes (Lecture 2)](assets/notes/proudfoot-2-trampel.pdf) courtesy of Kurt Trey Trampel
 * [Notes (Lecture 3)](assets/notes/proudfoot-3-dawydiak.pdf) courtesy of Stefan Dawydiak
 * [Notes (Lectures 1, 2, and 3)](assets/notes/proudfoot-mathers.pdf) courtesy of Richard Mathers
 * [Notes (Lectures 1, 2, and 3)](assets/notes/proudfoot-proudfoot.pdf) by Nicholas Proudfoot
